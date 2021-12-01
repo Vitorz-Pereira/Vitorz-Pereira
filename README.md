@@ -1,4 +1,4 @@
-## Olá eu sou Vitor Pereira, estudante de análise e desenvolvimento de sistemas.
+## Olá eu sou Vitor Pereira, estudante de Análise e Desenvolvimento de Sistemas.
 ## Atuo como Trainee em análise de dados e estou atualmente cursando a formação cientista de dados na Data Science Academy!
 <div align="center">
   <a href="https://github.com/Vitorz-Pereira">
