@@ -1,5 +1,7 @@
 
-## Atuo como Trainee em análise de dados e estou atualmente cursando a formação cientista de dados na Data Science Academy!
+## Atuo como Analista de Dados, utilizando de metodologias ágeis (Scrum), efetuando levantamento de requisitos, ETL (extração de dados Oracle, tratamento de dados Pentaho e criação de Data Marts), criação e manutenção de paineis Power Bi e automações via Power Automate/Power Apps.
+Possuo conhecimento em Sql, Oracle, Aws Redshift, Pentaho, Python, Power Bi (Dax / M - RLS) além de experiencia com Data Warehouse. 
+Tenho realizado cursos complementares voltados para a área de Data Science e Analytics (Big Data Analytics utilzando R e Azure Machine learning | Big Data Analytics utilizando Python e Spark).
 <div align="center">
   <a href="https://github.com/Vitorz-Pereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vitorz-Pereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
